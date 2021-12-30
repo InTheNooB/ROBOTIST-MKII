@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    height: 200vh;
+}
+
+p{
+    color: white;
+    position: absolute;
+    top: 0px;
+}
+a{
+    color: white;
+    position: absolute;
+    top: 20px;
+    font-size: 30px;
+}
+
+.mainDiv{
+    width: 100%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top:20px;
+}
+
+#myCanvas {
+    display: block;
+    margin: 0;
+    background-color: black;
+}
+
+select{
+    background-color: transparent;
+    color:white;
+}
+
+option {
+    color: black;
+}
